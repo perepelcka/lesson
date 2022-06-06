@@ -1,0 +1,22 @@
+
+h1 {
+    color: red;
+}
+
+.my_name {
+    color: #cecece;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color:#bebebe;
+    background-image: url('../p/p.png') center no-repeat #bebebe;
+
+    border: 3px solid rgb(red);
+
+}
+
+#my_first_name {
+    
+    color: green;
+    font-weight: bold;
+}
